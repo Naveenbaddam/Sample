@@ -10,7 +10,7 @@ namespace StaticFunctionWithReturnType
     {
         public static string names()
         {
-            int i = 1;
+            int i = 10;
             String s = "Integer should starts with ";
             String str = s + i;
             Console.WriteLine(str);
